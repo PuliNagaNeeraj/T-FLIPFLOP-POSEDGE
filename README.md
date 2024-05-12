@@ -66,7 +66,7 @@ assign q_bar = ~q;
 endmodule
 ```
 ## RTL LOGIC FOR FLIPFLOPS:
-![image](https://github.com/Abburehan/T-FLIPFLOP-POSEDGE/assets/138849336/b07953ff-f49d-4bd6-9bf9-e542b321c28b)
+![image](https://github.com/PuliNagaNeeraj/T-FLIPFLOP-POSEDGE/assets/138849173/dc19263c-717c-4574-9d8b-cbfc05cc2b4c)
 
 ## TIMING DIGRAMS FOR FLIP FLOPS:
 ![image](https://github.com/Abburehan/T-FLIPFLOP-POSEDGE/assets/138849336/fd93c1da-36ab-4155-9032-855d0de091f1)
